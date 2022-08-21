@@ -2,27 +2,26 @@
     "scores": 
     {
         "scores":   [
-            {
-              "userId": "Majo",
-              "value": 5,
-             
-            },
-            {
-              "userId":"Manuel",
-              "value": 2
-            },
-            {
-              "userId":"El terminator",
-              "value": 4
-            },
-            {
-              "userId":"Pajaroso",
-              "value": 14
-            },
-            {
-              "userId":"El prrr",
-              "value": 10
-            }
+      {
+        "user_id": "Pajaroso",
+        "score": 36
+      },
+      {
+        "user_id":"El terminator",
+        "score": 20
+      },
+      {
+        "user_id":"popetas",
+        "score": 12
+      },
+      {
+        "user_id":"Majo",
+        "score": 7
+      },
+      {
+        "user_id":"Rio el rio",
+        "score": 6
+      }
         ] 
     }
   }
