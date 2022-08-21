@@ -1,12 +1,27 @@
-
 {
-  "posts": [
+    "scores": 
     {
-      "id": 1,
-      "title": "hello"
+        "scores":   [
+      {
+        "user_id": "Camilo",
+        "score": 13
+      },
+      {
+        "user_id":"Marcelo",
+        "score": 2
+      },
+      {
+        "user_id":"Laura",
+        "score": 44
+      },
+      {
+        "user_id":"Claudia",
+        "score": 14
+      },
+      {
+        "user_id":"Maria",
+        "score": 101
+      }
+        ] 
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
-}
