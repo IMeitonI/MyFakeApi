@@ -1,8 +1,26 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+      "scores":   [
+            {
+              "userId": "Majo",
+              "value": 5,
+              "name":"lololex"
+            },
+            {
+              "userId":"Manuel",
+              "value": 2
+            },
+            {
+              "userId":"El terminator",
+              "value": 4
+            },
+            {
+              "userId":"Pajaroso",
+              "value": 14
+            },
+            {
+              "userId":"El prrr",
+              "value": 10
+            }
     }
   ],
   "profile": {
