@@ -1,5 +1,5 @@
 {
-      "scores":   [
+      "leaders":   [
             {
               "userId": "Majo",
               "value": 5,
@@ -21,7 +21,7 @@
               "userId":"El prrr",
               "value": 10
             }
-    }
+    
   ],
   "profile": {
     "name": "typicode"
