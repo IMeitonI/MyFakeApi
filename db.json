@@ -3,24 +3,24 @@
     {
         "scores":   [
       {
-        "user_id": "Pajaroso",
-        "score": 36
+        "userId": "Pajaroso",
+        "value": 36
       },
       {
-        "user_id":"El terminator",
-        "score": 20
+        "userId":"El terminator",
+        "value": 20
       },
       {
-        "user_id":"popetas",
-        "score": 12
+        "userId":"popetas",
+        "value": 12
       },
       {
-        "user_id":"Majo",
-        "score": 7
+        "userId":"Majo",
+        "value": 7
       },
       {
-        "user_id":"Rio el rio",
-        "score": 6
+        "userId":"Rio el rio",
+        "value": 6
       }
         ] 
     }
